@@ -1,0 +1,11 @@
+.git/
+
+# Editors
+.idea/
+
+# Modules
+node_modules/
+
+
+# Projects
+docs/
